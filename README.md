@@ -17,3 +17,6 @@ See [https://github.com/SettleAPI/settle-sdk-c-sharp](https://github.com/SettleA
 ## Settle WooCommerce Gateway
 
 See [https://github.com/SettleAPI/settle-woocommerce-gateway](https://github.com/SettleAPI/settle-woocommerce-gateway) for more information about the **Settle WooCommerce Gateway**.
+
+
+Please note that the above SDK's and client libraries might be outdated or deprecated as of 01.03.2021, but we are working on updating them and adding more in the comming months.
